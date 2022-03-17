@@ -3,11 +3,12 @@
 - [GitHub](https://github.com/Gnola)
 - [Portfolio](https://www.gianninola.com/)
 
----
 
 ## [Life's Music](https://mern-music.herokuapp.com/)
 
-### Slide 8: Songs Mentioned
+### Slide 8:
+
+**Songs Mentioned**
 - [Dean Martin - I'm Confessin'](https://www.youtube.com/watch?v=8qLmbLj9yb8)
 - [Creedence Clearwater Revival - Green River](https://www.youtube.com/watch?v=cYPK_sl7h44)
 
@@ -21,15 +22,12 @@
 
 ![App Layout](_assets/AppMap.JPG)
 
-#### Slide 11
+### Slide 11
 
-**Code - Adding / Updating Songs**
+**Adding / Updating Songs snippet**
 
 ![Check New](_assets/CheckNew.png)
 
-
-
----
 
 ## Msvisa
 
@@ -45,6 +43,6 @@
 
 ### Slide 18
 
-**Questionnaire Code Snippet**
+**Questionnaire snippet**
 
 ![Questionnaire](_assets/questionnaire.png)
