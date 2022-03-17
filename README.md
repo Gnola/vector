@@ -3,27 +3,45 @@
 - [GitHub](https://github.com/Gnola)
 - [Portfolio](https://www.gianninola.com/)
 
-
-### About Me
-
-Uplifted Fitness Resources
-- <a href="./_assets/questions.pdf" download>Training Questionnaire</a>
-- <a href="./_assets/goals.pdf" download>Goal Setting Form</a>
-
 ---
 
 ### [Life's Music](https://mern-music.herokuapp.com/)
 
-Sorting Songs
-![Check Categories](_assets/CheckCategories.png)
 
-Updating Songs
-![Check New](_assets/CheckNew.png)
+#### Slide 8
 
-S7 - Songs Mentioned
+**Songs Mentioned**
 - [Dean Martin - I'm Confessin'](https://www.youtube.com/watch?v=8qLmbLj9yb8)
 - [Creedence Clearwater Revival - Green River](https://www.youtube.com/watch?v=cYPK_sl7h44)
+
+#### Slide 9
+
+**Song Rating "Rules"**
+![Song Rating](_assets/SongRating.JPG)
+
+**App Layout**
+![App Layout](_assets/AppMap.JPG)
+
+**S11: Code - Adding / Updating Songs**
+
+![Check New](_assets/CheckNew.png)
+
+
 
 ---
 
 ### Msvisa
+
+#### Slide 16
+
+<a href="./_assets/Web_Dev_Questionnaire.pdf" download>Web Dev Questionnaire</a>
+
+#### Slide 17
+
+**Temporary Landing Page**
+![Temp Landing](_assets/iteration1.png)
+
+#### Slide 18
+
+**Questionnaire Code Snippet**
+![Questionnaire](_assets/questionnaire.png)
