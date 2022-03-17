@@ -12,7 +12,7 @@
 - [Dean Martin - I'm Confessin'](https://www.youtube.com/watch?v=8qLmbLj9yb8)
 - [Creedence Clearwater Revival - Green River](https://www.youtube.com/watch?v=cYPK_sl7h44)
 
-### Slide 9
+### Slide 9:
 
 **Song Rating "Rules"**
 
@@ -22,7 +22,7 @@
 
 ![App Layout](_assets/AppMap.JPG)
 
-### Slide 11
+### Slide 11:
 
 **Adding / Updating Songs snippet**
 
@@ -31,18 +31,22 @@
 
 ## Msvisa
 
-### Slide 16
+### Slide 16:
 
 <a href="./_assets/Web_Dev_Questionnaire.pdf" download>Web Dev Questionnaire</a>
 
-### Slide 17
+### Slide 17:
 
 **Temporary Landing Page**
 
 ![Temp Landing](_assets/iteration1.png)
 
-### Slide 18
+### Slide 18:
 
 **Questionnaire snippet**
 
 ![Questionnaire](_assets/questionnaire.png)
+
+
+
+*References available upon request*
