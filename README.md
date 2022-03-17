@@ -1,5 +1,5 @@
 # Vector Interview Resources
-- [LinkedIn]((https://www.linkedin.com/in/gianni-nola/))
+- [LinkedIn](https://www.linkedin.com/in/gianni-nola/)
 - [GitHub](https://github.com/Gnola)
 - [Portfolio](https://www.gianninola.com/)
 
